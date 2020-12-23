@@ -3,7 +3,7 @@
 # A few secrets are required to be set before running the workflow.
 #
 # AWS_ACCESS_KEY_ID:
-# AWS_ACCESS_ACCESS_KEY:
+# AWS_SECRET_ACCESS_KEY:
 #   https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
 #
 # GITOPS_REPO_TOKEN:
